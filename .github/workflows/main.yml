@@ -12,8 +12,8 @@ jobs:
     env:
       ARM_CLIENT_ID: ${{ secrets.AZURE_AD_CLIENT_ID }}
       ARM_CLIENT_SECRET: ${{ secrets.AZURE_AD_CLIENT_SECRET }}
-      ARM_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-      ARM_TENANT_ID: ${{ secrets.AZURE_AD_TENANT_ID }}
+      ARM_SUBSCRIPTION_ID = "c468a1fc-04e7-475a-ae36-20d9113d0efb"
+      ARM_TENANT_ID = "9ad90890-af2f-4366-afef-ae4beda55be2"
 
     runs-on: ubuntu-latest
     environment: production
