@@ -1,1 +1,1 @@
-# Infra_Terraform - Infra as a code with Terraform
+# Infra_Terraform - Infra as a code Terraform
