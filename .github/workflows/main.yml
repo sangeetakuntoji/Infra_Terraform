@@ -1,4 +1,4 @@
-name: 'Terraform'
+name: 'Terraform_infrawebapp'
  
 on:
   push:
